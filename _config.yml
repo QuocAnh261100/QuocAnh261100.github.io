@@ -22,7 +22,7 @@ repository               : "QuocAnh261100/QuocAnh261100.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Quoc-Anh Hoang Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "Upcoming PhD student at Aalto University"
