@@ -3,7 +3,7 @@ title: " High-Dimensional Bayesian Optimization via Random Projection of Manifol
 collection: publications
 category: conferences
 permalink: /publication/RPMBO
-# excerpt: "A differentible method for pruning at initialization aims to convert the hard discrete optimization of finding Node Path Balance sparse networks into a fast and easy-to-integrate differentiable optimization problem."
+excerpt: #
 date: 2024-08-22
 venue: 'Joint European Conference on Machine Learning and Knowledge Discovery in Databases'
 # slidesurl: 'http://QuanNguyen-Tri.github.io/files/DPaI_poster.pdf'
