@@ -3,13 +3,16 @@ title: "Bayesian Optimization for Unknown Cost-Varying Variable Subsets with No-
 collection: publications
 category: conferences
 permalink: /publication/UCBCVS
-excerpt: #
+excerpt: 'We propose a new Bayesian Optimization algorithm that handles variable subsets with random and unknown costs, achieving sub-linear regret in both quality and cost, and outperforming baselines across benchmarks.'
 date: 2025-04-11
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
 # slidesurl: 'http://QuanNguyen-Tri.github.io/files/DPaI_poster.pdf'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/34906'
 citation: 'Vu Viet Hoang*, <b>Quoc-Anh Hoang Nguyen*</b>, The Hung Tran*'
 ---
+
+Abstract
+------
 
 Bayesian Optimization (BO) is a widely-used method for optimizing expensive-to-evaluate black-box functions. Traditional BO assumes that the learner has full control over all query variables without additional constraints. However, in many real-world scenarios, controlling certain query variables may incur costs. Therefore, the learner needs to balance the selection of informative subsets for targeted learning against leaving some variables to be randomly sampled to minimize costs. This problem is known as Bayesian Optimization with cost-varying variable subsets (BOCVS). While the goal of BOCVS is to identify the optimal solution with minimal cost, previous works have only guaranteed finding the optimal solution without considering the total costs incurred. Moreover, these works assume precise knowledge of the cost for each subset, which is often unrealistic. In this paper, we propose a novel algorithm for the extension of the BOCVS problem with random and unknown costs that separates the process into exploration and exploitation phases. The exploration phase will filter out low-quality variable subsets, while the exploitation phase will leverage high-quality ones. Furthermore, we theoretically demonstrate that our algorithm achieves a sub-linear rate in both quality regret and cost regret, addressing the objective of the BOCVS problem more effectively than previous analyses. Finally, we show that our proposed algorithm outperforms comparable baselines across a wide range of benchmarks.
 
