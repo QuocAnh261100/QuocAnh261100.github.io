@@ -37,9 +37,3 @@ My research interest includes the following areas:
 * *2020*: Excellent Scholarship for the academic year (~1,000 USD) - Hanoi University of Science and Technology.
 
 
-📖 Educations
-======
-* *2022 - 2024*: Master's degree in Applied Mathematics, Mathematics Institute, Vietnam Academy of Science and Technology.
-* *2018 - 2022*: Talented Class of the Applied Mathematics and Information Major at Hanoi University of Science and Technology (Top 2/150 of Faculty).
-* *2015 - 2018*: Mathematics Major, Hanoi–Amsterdam High School for the Gifted.
-

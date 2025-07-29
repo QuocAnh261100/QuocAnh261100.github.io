@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/transfer_BO
 excerpt: 'This paper introduces a transfer-learning-based Bayesian Optimization algorithm that automatically designs promising search spaces without needing prior knowledge, overcomes restrictive assumptions, and outperforms state-of-the-art methods across benchmarks.'
 date: 2025-07-29
-venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
+venue: 'Joint European Conference on Machine Learning and Knowledge Discovery in Databases'
 slidesurl: #
 paperurl: #
 citation: '<b>Quoc-Anh Hoang Nguyen*</b>, The Hung Tran*, Sunil Gupta, Dung D. Le'
