@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Quoc-Anh Nguyen"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Quoc-Anh"
 description              : &description "personal description of Quoc-Anh Nguyen"
