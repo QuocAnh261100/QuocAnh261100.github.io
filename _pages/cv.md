@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**You can download my CV [here](https://github.com/QuocAnh261100/QuocAnh261100.github.io/blob/master/CV_Nguyen_Hoang_Quoc_Anh.pdf).**
+**You can download my CV [here](https://drive.google.com/file/d/1FBILXjOc3lZ5JCMcZZXet-rahf7O5au9/view?usp=sharing).**
 
 Education
 ======
