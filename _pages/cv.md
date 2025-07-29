@@ -23,11 +23,11 @@ Work experience
   * Technologies: python, Azure OpenAI Service, Fuzzy Matching
 
 * **06/2024-12/2024**: AI Researcher
-  * FPT Software AI Center x Renesas Electronocs Corporation
+  * FPT Software AI Center x Renesas Electronics Corporation
   * Duties includes: Researching about compiler pass orders for program efficiency.
   * Technologies: python, TVM, LLVM
 
-* **10/2021-11/2024**: Research Assistance
+* **10/2021-11/2024**: Research Assistant
   * Mathematics Institute, Vietnam Academy of Science and Technology
   * Duties includes: Conducting research on Stochastic Gradient Descent, NeuralODE and score-based Generative models
   * Supervisor: [Dr. Hoang Duc Luu](https://scholar.google.com/citations?user=GEt6qKUAAAAJ&hl=en)
@@ -52,10 +52,6 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
 Honors and Awards
 ======
