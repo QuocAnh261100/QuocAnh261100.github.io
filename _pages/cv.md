@@ -43,11 +43,6 @@ Work experience
   * Vietnam Electricity Group (EVN) x Hanoi Universitty of Science and Technology
   * Duties included: Using Bayesian Optimization to tune LSTM hyperparameters for electricity load forecasting.
   * Supervisor: [Prof. Nguyen Thi Ngoc Anh](https://scholar.google.com/citations?user=x-H87vsAAAAJ&hl=en)
-  
-Certificates
-======
-* Generate AI with Diffusion Models - NVIDIA
-* Getting Stated with AI on Jetson Nano - NVIDIA
 
 Publications
 ======
