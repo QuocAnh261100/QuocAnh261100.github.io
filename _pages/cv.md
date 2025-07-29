@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can dowload my CV here.
+
 Education
 ======
 * *2022 - 2024*: M.S. in Applied Mathematics, Mathematics Institute, Vietnam Academy of Science and Technology.
@@ -17,7 +19,7 @@ Education
 
 Work experience
 ======
-* **12/2024-07/2025**: Data Scientist
+* **01/2024-07/2025**: Data Scientist
   * FPT Software AI Center
   * Duties includes: Developing LLM model for sentiment analysis task.
   * Technologies: python, Azure OpenAI Service, Fuzzy Matching
