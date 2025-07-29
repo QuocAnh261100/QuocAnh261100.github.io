@@ -28,18 +28,18 @@ My research interest includes the following areas:
 
 🏅 Honors and Awards
 ======
-* *2023*, **Second prize**, Hanoi LLM Hackathon.
-* *2022*, Full Scholarship for Master and Doctoral Training in Vietnam (~5,000 USD) - [Vingroup Innovation Foundation (VinIF)](https://vinif.org/en/sponsor-programs/postgraduate-scholarships/)
-* *2022*, **Top 15** outstanding graduate students rewarded by Principal of Hanoi University of Science and Technology.
-* *2021*, **First prize**, Hanoi University of Science and Technology Scientific Research Undergraduate Conference.
-* *2021*, **Third prize**, Olympic Econometrics and Applications.
-* *2020*, Vietnam Institute for Advanced Study in Mathematics scholarship (~500 USD) 
-* *2020*, Excellent Scholarship for the academic year (~1,000 USD) - Hanoi University of Science and Technology
+* *2023*: **Second prize**, Hanoi LLM Hackathon.
+* *2022*: Full Scholarship for Master and Doctoral Training in Vietnam (~5,000 USD) - [Vingroup Innovation Foundation (VinIF)](https://vinif.org/en/sponsor-programs/postgraduate-scholarships/)
+* *2022*: **Top 15** outstanding graduate students rewarded by Principal of Hanoi University of Science and Technology.
+* *2021*: **First prize**, Hanoi University of Science and Technology Scientific Research Undergraduate Conference.
+* *2021*: **Third prize**, Olympic Econometrics and Applications.
+* *2020*: Vietnam Institute for Advanced Study in Mathematics scholarship (~500 USD).
+* *2020*: Excellent Scholarship for the academic year (~1,000 USD) - Hanoi University of Science and Technology.
 
 
 📖 Educations
 ======
 * *2022 - 2024*: Master's degree in Applied Mathematics, Mathematics Institute, Vietnam Academy of Science and Technology.
-* *2018 - 2022*: Talented Class of the Applied Mathematics and Information Major at Hanoi University of Science and Technology. (Top 2/150 of Faculty).
+* *2018 - 2022*: Talented Class of the Applied Mathematics and Information Major at Hanoi University of Science and Technology (Top 2/150 of Faculty).
 * *2015 - 2018*: Mathematics Major, Hanoi–Amsterdam High School for the Gifted.
 
