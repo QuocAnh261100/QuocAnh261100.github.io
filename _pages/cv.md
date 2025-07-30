@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* **01/2024-07/2025**: Data Scientist
+* **01/2025-07/2025**: Data Scientist
   * FPT Software AI Center
   * Duties includes: Developing LLM model for sentiment analysis task.
   * Technologies: python, Azure OpenAI Service, Fuzzy Matching
