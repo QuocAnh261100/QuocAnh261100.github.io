@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thanks for visiting! My name is Quoc-Anh. You can call me Andrew! 
+Hi, thanks for visiting! My name is Quoc-Anh.
 
-I’m currently an AI Researcher at [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence). Before that, I spent two enriching years as an AI Resident at [FPT AI Residency](https://web.facebook.com/aic.fsoft/?_rdc=1&_rdr#), one of Vietnam’s leading machine learning research programs for undergraduates. During this time, I worked under the guidance of [Dr. Hung Tran-The](https://scholar.google.com/citations?user=um-FS-gAAAAJ&hl=en), with a focus on Bayesian Optimization (BO).
+I am an ELLIS PhD student in the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) at Aalto University, where I have the privilege of being supervised by [Professor Samuel Kaski](https://kaski-lab.com/). Through the ELLIS program, I am also fortunate to be co-supervised by [Dr. Desi Ivanova](https://desirivanova.com/) from the University of Oxford. My research focuses on Bayesian decision-making under uncertainty.
+
+Previously, I was an AI Researcher at [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence). Before that, I spent two enriching years as an AI Resident at [FPT AI Residency](https://web.facebook.com/aic.fsoft/?_rdc=1&_rdr#), one of Vietnam’s leading machine learning research programs for undergraduates. During this time, I worked under the guidance of [Dr. Hung Tran-The](https://scholar.google.com/citations?user=um-FS-gAAAAJ&hl=en), with a focus on Bayesian Optimization (BO).
 
 I hold a Bachelor’s degree in Applied Mathematics and Information from [Hanoi University of Science and Technology](https://hust.edu.vn/en/), where I completed my thesis on BO in Mixed Search Spaces, supervised by [Prof. Nguyen Thi Ngoc Anh](https://scholar.google.com/citations?user=x-H87vsAAAAJ&hl=en). I also earned a Master’s degree in Applied Mathematics from the [Mathematics Institute, Vietnam Academy of Science and Technology](http://math.ac.vn/en/trang-chu/gioi-thieu-vien-toan.html), where I was fortunate to be supervised by [Dr. Hoang Duc Luu](https://scholar.google.com/citations?user=GEt6qKUAAAAJ&hl=en). My Master’s thesis explored solving ODEs with complex attractors using NeuralODE and Continuous Normalizing Flow.
-
-Starting in September 2025, I will begin my PhD at the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) at [Aalto University](https://www.aalto.fi/en), under the supervision of [Prof. Samuel Kaski](https://kaski-lab.com/).
 
 🔬 Research interest
 ======
@@ -21,9 +21,9 @@ My research interest includes the following areas:
 
 * Bayesian Experimental Design, Bayesian Active Learning, Bayesian Optimization.
 
-* Probabilistic Machine Learning, Variational Inference, Generative Models.
+* Amortized Learning, Transfer Learning
 
-* Collaborative AI for decision making and design.
+* Distribution Shift, Collaborative AI for decision making and design.
 
 
 🏅 Honors and Awards
