@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-**You can download my CV [here](https://drive.google.com/file/d/1FBILXjOc3lZ5JCMcZZXet-rahf7O5au9/view?usp=sharing).**
+**You can download my CV [here](https://drive.google.com/file/d/1VytD5u6BRUcHcFuSW-9rrsuxWDRirV9h/view?usp=sharing).**
 
 Education
 ======
+* *2025 - 2029*: Doctoral Researcher in Computer Science, Aalto University.
 * *2022 - 2024*: M.S. in Applied Mathematics, Mathematics Institute, Vietnam Academy of Science and Technology.
 * *2018 - 2022*: B.S. in Applied Mathematics and Information Major, Hanoi University of Science and Technology (Talented class, Top 2/150 of Faculty).
 * *2015 - 2018*: Mathematics Major, Hanoi–Amsterdam High School for the Gifted.
