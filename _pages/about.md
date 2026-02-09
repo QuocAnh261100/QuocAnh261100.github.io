@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, thanks for visiting! My name is Quoc-Anh.
 
-I am an [ELLIS](https://ellis.eu/phd-postdoc) PhD student in the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) at Aalto University, where I have the privilege of being supervised by [Prof. Samuel Kaski](https://kaski-lab.com/). Through the ELLIS program, I am also fortunate to be co-supervised by [Dr. Desi Ivanova](https://desirivanova.com/) from the University of Oxford. My research focuses on Bayesian decision-making under uncertainty.
+I am an [ELLIS](https://ellis.eu/phd-postdoc) PhD student in the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) at Aalto University, where I have the privilege of being supervised by [Prof. Samuel Kaski](https://kaski-lab.com/) and [Dr. Conor Hassan](https://www.conorhassan.com/). Through the ELLIS program, I am also fortunate to be co-supervised by [Dr. Sabina Sloman](https://sabinasloman.com/) from the University of Manchester. My research focuses on Bayesian decision-making under uncertainty.
 
 Previously, I was an AI Researcher at [FPT Software AI Center](https://fptsoftware.com/services/digital-technologies-and-platforms/artificial-intelligence). Before that, I spent two enriching years as an AI Resident at [FPT AI Residency](https://web.facebook.com/aic.fsoft/?_rdc=1&_rdr#), one of Vietnam’s leading machine learning research programs for undergraduates. During this time, I worked under the guidance of [Dr. Hung Tran-The](https://scholar.google.com/citations?user=um-FS-gAAAAJ&hl=en), with a focus on Bayesian Optimization (BO).
 
